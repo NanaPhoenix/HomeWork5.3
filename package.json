@@ -1,0 +1,24 @@
+{
+  "name": "homework5.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanaPhoenix/HomeWork5.3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NanaPhoenix/HomeWork5.3/issues"
+  },
+  "homepage": "https://github.com/NanaPhoenix/HomeWork5.3#readme",
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2"
+  }
+}
